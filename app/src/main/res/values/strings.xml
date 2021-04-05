@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SportApp</string>
+    <string name="button_lable">Get Results</string>
+    <string name="result_title">Results for %1$s</string>
+</resources>
